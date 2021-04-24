@@ -1,5 +1,5 @@
 # GAIH Student Repo Example
-![](img/newlogo.png)
+![](newlogo.png)
 
 **Course Date:** 22.03.2021-26.03.2021 
 **Name:** Ebru 
@@ -13,12 +13,14 @@ Global AI Hub Machine Learning Course
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
 ```
 ---
 
 ### Certification
-![](img/ebrusimsek.png)
+![](ebrusimsek.png)
 

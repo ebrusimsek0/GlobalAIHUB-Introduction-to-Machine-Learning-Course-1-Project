@@ -1,4 +1,5 @@
-# GAIH Student Repo Example
+# GlobalAIHUB-Introduction-to-Machine-Learning-Course-1-Project
+
 ![](img/newlogo.png)
 
 **Course Date:** 22.03.2021-26.03.2021 
